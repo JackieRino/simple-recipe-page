@@ -1,10 +1,10 @@
 body {
    
     background-color: rgb(249, 227, 200);
-    display: flex;
+    /*display: flex;
     justify-content: center;
     align-items:center;
-    min-height:100px;
+    min-height:100px;*/
 
 
 }
@@ -28,16 +28,15 @@ body {
     padding-bottom: 50px;
     padding-left: 20px;
     padding-right: 40px;
-    text-align: left ;
+    text-align: left ; */
 
-/*
     box-sizing: border-box;
     align-items: center;
     justify-content: center;
     width: auto;
     margin: 0px;
     height: 100vh;
-    display: flex; */
+    display: flex; 
     
 }
 
@@ -140,3 +139,4 @@ table{
     width: 100%;
 
 }
+
