@@ -1,0 +1,129 @@
+body {
+    color:rgb(65, 63, 63);
+    background-color: rgb(249, 227, 200);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+#recipe-page {
+    background-color: white;
+    border-radius:20px ;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 40px;
+    text-align: left ;
+
+/*
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    margin: 0px;
+    height: 100vh;
+    display: flex; */
+    
+}
+
+#introduction {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 20px;
+}
+
+img{
+    max-width: 500px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+
+#time {
+     border-radius: 10px; 
+     background-color: rgb(250, 178, 190, 0.25);
+}
+
+.time {
+    
+    opacity: ;
+    text-align: left;
+    padding: 5px;
+    padding-left: 15px;
+    margin-left: 20px;
+   
+}
+
+.margin {
+   
+    opacity: ;
+    text-align: left;
+    padding: 5px;
+    padding-left: 15px;
+    margin-left: 20px;
+   
+    
+}
+
+
+h1 {
+    color:black;
+}
+
+/*p {
+    text-align: justify;
+} */
+
+/*
+h2 {
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-left: 100px;
+}*/
+
+.note {
+    font-weight: bold;
+    
+
+}
+
+h2  {
+    color: rgb(87, 1, 1);
+}
+
+td + td {
+    font-weight: bold;
+    color: rgb(118, 27, 2);
+    text-align: center;
+    margin-left: 20px;
+    padding-left: 50px;    
+}
+
+td, td {
+    padding: 10px;
+    border-bottom: 1px solid rgb(0, 0, 0, 0.25);
+  
+}
+
+ul , ol {
+    list-style-position: outside;     
+}
+
+li{
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+li::marker {
+    color: rgb(124, 17, 2);
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
